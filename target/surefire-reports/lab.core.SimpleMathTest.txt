@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: lab.core.SimpleMathTest
+-------------------------------------------------------------------------------
+Tests run: 12, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.203 s - in lab.core.SimpleMathTest
